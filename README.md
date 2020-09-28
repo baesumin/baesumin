@@ -6,6 +6,6 @@
 
 ### Interest
 - Mobile
-- Unity
+- Android, Unity
 - IoT
 - AR/VR
