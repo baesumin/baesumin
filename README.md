@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/baesumin)](https://hits.seeyoufarm.com)
 ### Software Engineer
 - 단국대학교 소프트웨어학과 졸업
 - 모바일 플랫폼 연구실 학부연구생 2019.7 ~
