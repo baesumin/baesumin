@@ -10,6 +10,7 @@
 - Android, Unity
 - IoT
 - AR/VR
+- ML
 
 ### Contact
 qotnals12345@naver.com
