@@ -13,7 +13,7 @@
 - ML
 
 ### Contact
-qotnals12345@naver.com
+- qotnals12345@naver.com
 
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/baesumin)](https://hits.seeyoufarm.com)
