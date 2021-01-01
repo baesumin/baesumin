@@ -1,3 +1,4 @@
+[![test](https://github-readme-stats.vercel.app/api?username=baesumin)](https://github.com/baesumin)
 ---
 ### Software Engineer
 - 단국대학교 소프트웨어학과 졸업
@@ -29,6 +30,4 @@
 
 
 ---
-[![test](https://github-readme-stats.vercel.app/api?username=baesumin)](https://github.com/baesumin)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/baesumin)](https://hits.seeyoufarm.com)
