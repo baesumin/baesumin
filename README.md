@@ -29,4 +29,6 @@
 
 
 ---
+[![test](https://github-readme-stats.vercel.app/api?username=baesumin)](https://github.com/baesumin)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/baesumin)](https://hits.seeyoufarm.com)
