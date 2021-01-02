@@ -1,4 +1,4 @@
-[![test](https://github-readme-stats.vercel.app/api?username=baesumin)](https://github.com/baesumin)
+<!--[![test](https://github-readme-stats.vercel.app/api?username=baesumin)](https://github.com/baesumin)-->
 ---
 ### Software Engineer
 - AR/VR 전문가 교육 2019.7
