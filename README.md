@@ -25,7 +25,7 @@
 
 ### Contact
 - qotnals12345@naver.com
-
+- qotnals12345@gmail.com
 
 
 
