@@ -12,7 +12,7 @@
 ### Interest
 - Mobile
 - Android, Unity
-- IoT
+- React, Angular
 - AR/VR
 - ML
 
