@@ -12,7 +12,7 @@
 ### Interest
 - Mobile
 - Android, Unity
-- React, Angular
+- React, React-Native
 - AR/VR
 - ML
 
