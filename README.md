@@ -20,7 +20,7 @@
 ### Career
 - AR/VR 전문가 과정 수료 (2019)
 - 교내 SW 공모전 금상 (2019)
-- SKT AI Fellowship 2기 최우수상 (2020)
+- [SKT AI Fellowship 2기 최우수상 (2020)](https://www.youtube.com/watch?v=oviDZyhQYQ8)
 
 
 ### Contact
