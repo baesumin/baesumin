@@ -10,10 +10,8 @@
 
 
 ### Interest
-- Mobile
-- Android, Unity
-- React, React-Native
-- AR/VR
+- Unity, AR/VR
+- Android, React, React-Native
 - ML
 
 
