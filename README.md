@@ -11,7 +11,7 @@
 
 ### Interest
 - Unity, AR/VR
-- Android, React, React-Native
+- Android, Angular, Ionic, React, React-Native
 - ML
 
 
