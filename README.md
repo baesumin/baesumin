@@ -24,7 +24,7 @@
 ### Contact
 - qotnals12345@naver.com
 - qotnals12345@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/sumin-bae-b050511b0/)
+- [Linkedin](https://www.linkedin.com/in/sumin-bae-b050511b0/)
 
 
 ---
