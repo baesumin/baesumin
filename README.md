@@ -20,6 +20,10 @@
 - [교내 SW 공모전 금상 (2019)](https://github.com/baesumin/SmartHome)
 - [SKT AI Fellowship 2기 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
 
+### Projects
+- [Slack 클론](https://github.com/baesumin/SmartHome)
+- [Movie 사이트 제작(React Native 이용) - NomadCoders](https://baesumin.github.io/moviesWeb/)
+
 
 ### Contact
 - qotnals12345@naver.com
