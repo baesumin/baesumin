@@ -21,8 +21,8 @@
 - [SKT AI Fellowship 2기 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
 
 ### Projects
-- [Slack 클론](https://github.com/baesumin/SmartHome)
-- [Movie 사이트 제작(React Native 이용) - NomadCoders](https://baesumin.github.io/moviesWeb/)
+- [Slack 클론](https://slack-clone-eb0ec.web.app/)
+- [Movie 추천 사이트 제작(React Native 이용) - NomadCoders](https://baesumin.github.io/moviesWeb/)
 
 
 ### Contact
