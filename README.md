@@ -23,7 +23,7 @@
 ### Projects
 - [Slack 클론 사이트(React)](https://slack-clone-eb0ec.web.app/)
 - [Movie 추천 사이트(React Native) - NomadCoders](https://baesumin.github.io/moviesWeb/)
-
+- [날씨 알리미 사이트(React Native) - NomadCoders](https://baesumin.github.io/weatherWeb/)
 
 ### Contact
 - qotnals12345@naver.com
