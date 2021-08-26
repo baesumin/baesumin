@@ -20,7 +20,7 @@
 - [교내 SW 공모전 금상 (2019)](https://github.com/baesumin/SmartHome)
 - [SKT AI Fellowship 2기 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
 
-### Projects
+### Side Projects
 - [Slack 클론 사이트(React)](https://slack-clone-eb0ec.web.app/)
 - [Movie 추천 사이트(React Native) - NomadCoders](https://baesumin.github.io/moviesWeb/)
 - [날씨 알리미 사이트(React Native) - NomadCoders](https://baesumin.github.io/weatherWeb/)
