@@ -23,8 +23,8 @@
 ### Side Projects
 - [Slack Clone](https://slack-clone-eb0ec.web.app/)
 - [AutoShop with react-three-fiber](https://smwebrepository.github.io/react-three-autoshop/)
-- [Movie Recommendation Site(React Native)](https://baesumin.github.io/moviesWeb/)
-- [Weather Forecast Site(React Native)](https://baesumin.github.io/weatherWeb/)
+- [Movie Recommendation Site with React Native)](https://baesumin.github.io/moviesWeb/)
+- [Weather Forecast Site with React Native)](https://baesumin.github.io/weatherWeb/)
 
 ### Contact
 - qotnals12345@naver.com
