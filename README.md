@@ -21,10 +21,10 @@
 - [SKT AI Fellowship 2기 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
 
 ### Side Projects
-- [Slack Clone](https://slack-clone-eb0ec.web.app/)
-- [AutoShop with react, threejs](https://smwebrepository.github.io/react-three-autoshop/)
-- [Movie Recommendation Site with React Native](https://baesumin.github.io/moviesWeb/)
-- [Weather Forecast Site with React Native](https://baesumin.github.io/weatherWeb/)
+- [Slack clone with react(2021)](https://slack-clone-eb0ec.web.app/)
+- [AutoShop with react, threejs(2021)](https://smwebrepository.github.io/react-three-autoshop/)
+- [Movie Recommendation with React Native(2021)](https://baesumin.github.io/moviesWeb/)
+- [Weather Forecast with React Native(2021)](https://baesumin.github.io/weatherWeb/)
 
 ### Contact
 - qotnals12345@naver.com
