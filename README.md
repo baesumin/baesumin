@@ -21,6 +21,7 @@
 - [SKT AI Fellowship 2기 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
 
 ### Side Projects
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021
 - [Slack clone with react(2021)](https://slack-clone-eb0ec.web.app/)
 - [AutoShop with react, threejs(2021)](https://smwebrepository.github.io/react-three-autoshop/)
 - [Movie Recommendation with React Native(2021)](https://baesumin.github.io/moviesWeb/)
