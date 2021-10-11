@@ -24,7 +24,7 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021
 - [Slack clone with react(2021)](https://slack-clone-eb0ec.web.app/)
 - [AutoShop with react, threejs(2021)](https://smwebrepository.github.io/react-three-autoshop/)
-- [Movie Recommendation with React Native(2021)](https://baesumin.github.io/moviesWeb/)
+- [Movie Recommendation with React Native(2021)](https://smwebrepository.github.io/moviesWeb/)
 - [Weather Forecast with React Native(2021)](https://smwebrepository.github.io/weatherWeb/)
 
 ### Contact
