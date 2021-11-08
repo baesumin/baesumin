@@ -10,7 +10,7 @@
 
 
 ### Interest
-- Android, Ionic, React, React-Native
+- React-Native, React, Android, iOS
 - JavaScript, ES6, TypeScript
 - Unity, AR/VR
 - ML
