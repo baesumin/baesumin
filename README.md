@@ -10,16 +10,17 @@
 
 
 ### Interest
-- React-Native, React, Android, iOS
+- React-Native, React
+- Android, iOS
 - JavaScript, ES6, TypeScript
 - Unity, AR/VR
-- ML
 
 
 ### Career
 - AR/VR 전문가 과정 수료 (2019)
 - [교내 SW 공모전 금상 (2019)](https://github.com/baesumin/SmartHome)
 - [SKT AI Fellowship 2기 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
+
 
 ### Side Projects
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021
@@ -29,6 +30,7 @@
 - [Weather Forecast with React Native](https://smwebrepository.github.io/weatherWeb/)
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
+
 
 ### Contact
 - qotnals12345@naver.com
