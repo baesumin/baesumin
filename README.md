@@ -10,7 +10,7 @@
 
 
 ### Interest
-- React-Native, React
+- React-Native, Nextjs, React
 - Android, iOS
 - JavaScript, ES6, TypeScript
 - Unity, AR/VR
