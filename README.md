@@ -1,7 +1,7 @@
 <!--[![test](https://github-readme-stats.vercel.app/api?username=baesumin)](https://github.com/baesumin)-->
 ---
 ### Software Engineer
-- 모바일 플랫폼 연구실 학부연구생 2019.7 ~ 2021.2
+- 모바일 플랫폼 연구실 학부연구생 2019.7 ~ 2020.12
 - SK C&C 인턴 2020.7 ~ 2020.9
 - SK C&C 2021.1 ~
 
