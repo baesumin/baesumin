@@ -29,8 +29,6 @@
 - [단짠단짠(대학교 소개팅,친구만들기) with React](https://www.dzzdzz.me)
 - [위키피디아(한의생, 한의사들을 위한 위키사이트) with React](https://www.acupedia.net)
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2023
-- [단짠단짠(대학교 소개팅,친구만들기) 시즌 2 with React Native]~
 
 ### Contact
 - qotnals12345@naver.com
