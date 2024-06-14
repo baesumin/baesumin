@@ -31,7 +31,6 @@
 
 
 ### Contact
-- qotnals12345@naver.com
 - [Linkedin](https://www.linkedin.com/in/baesumin)
 
 
