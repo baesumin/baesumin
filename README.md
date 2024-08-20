@@ -9,7 +9,7 @@
 ### Interest
 - React-Native, Nextjs, React
 - JavaScript, ES6, TypeScript
-- Unity, AR/VR
+- Unity, AR/VR, 3D Interaction(R3F)
 
 
 ### Experience
