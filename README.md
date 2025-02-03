@@ -1,9 +1,9 @@
 <!--[![test](https://github-readme-stats.vercel.app/api?username=baesumin)](https://github.com/baesumin)-->
 ---
 ### Software Engineer
-- 모바일 플랫폼 연구실 학부연구생 2019.7 ~ 2020.12
-- SK C&C 인턴 2020.7 ~ 2020.9
 - SK C&C 2021.1 ~
+- SK C&C 인턴 2020.7 ~ 2020.9
+- 모바일 플랫폼 연구실 학부연구생 2019.7 ~ 2020.12
 
 
 ### Interest
@@ -13,10 +13,10 @@
 
 
 ### Experience
-- AR/VR 전문가 과정 수료 (2019)
-- [교내 SW 공모전, 금상 (2019)](https://github.com/baesumin/SmartHome)
-- [SKT AI Fellowship 2기, 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
 - Toss Accelerator 1기 - 토스 프론트엔드 멘토링 활동 (2024)
+- [SKT AI Fellowship 2기, 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
+- [교내 SW 공모전, 금상 (2019)](https://github.com/baesumin/SmartHome)
+- AR/VR 전문가 과정 수료 (2019)
 
 
 ### Side Projects
