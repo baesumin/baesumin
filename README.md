@@ -20,15 +20,16 @@
 
 
 ### Side Projects
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
+- [단짠단짠(대학교 소개팅,친구만들기) with React]
+- [아큐피디아(한의생, 한의사들을 위한 위키사이트) with React](https://www.acupedia.net)
+
+
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021
 - [Slack clone with React](https://slack-clone-eb0ec.web.app/)
 - [AutoShop with React, Threejs](https://smwebrepository.github.io/react-three-autoshop/)
 - [Movie Recommendation with React Native](https://smwebrepository.github.io/moviesWeb/)
 - [Weather Forecast with React Native](https://smwebrepository.github.io/weatherWeb/)
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022
-- [단짠단짠(대학교 소개팅,친구만들기) with React](https://www.dzzdzz.me)
-- [아큐피디아(한의생, 한의사들을 위한 위키사이트) with React](https://www.acupedia.net)
 
 
 ### Contact
