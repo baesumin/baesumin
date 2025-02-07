@@ -6,10 +6,11 @@
 - 모바일 플랫폼 연구실 학부연구생 2019.7 ~ 2020.12
 
 
-### Interest
+### Tech Stack
 - React-Native, Nextjs, React
 - JavaScript, ES6, TypeScript
-- Unity, AR/VR, 3D Interaction(R3F)
+- Tanstack-Query, Redux, Jotai
+- Pnpm, Storybook 
 
 
 ### Experience
