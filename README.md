@@ -7,7 +7,7 @@
 
 
 ### Tech Stack
-- React-Native, Nextjs, React
+- React, React-Native, Nextjs
 - JavaScript, ES6, TypeScript
 - Tanstack-Query, Redux, Jotai
 - Pnpm, Storybook 
