@@ -13,7 +13,7 @@
 - Pnpm, Storybook 
 
 
-### Experience
+### Activities
 - Toss Accelerator 1기 - 토스 프론트엔드 멘토링 활동 (2024)
 - [SKT AI Fellowship 2기, 최우수상 (2020)](https://www.youtube.com/watch?v=USqqJFc0Nu4)
 - [교내 SW 공모전, 금상 (2019)](https://github.com/baesumin/SmartHome)
