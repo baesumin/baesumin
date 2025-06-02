@@ -1,5 +1,6 @@
 <!--[![test](https://github-readme-stats.vercel.app/api?username=baesumin)](https://github.com/baesumin)-->
 ---
+https://baesumin.vercel.app/
 ### Software Engineer
 - SK C&C 2021.1 ~
 - SK C&C 인턴 2020.7 ~ 2020.9
