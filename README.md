@@ -2,8 +2,8 @@
 ---
 https://baesumin.vercel.app/
 ### Software Engineer
-- SK C&C 2021.1 ~
-- SK C&C 인턴 2020.7 ~ 2020.9
+- SK AX 2021.1 ~
+- SK AX 인턴 2020.7 ~ 2020.9
 - 모바일 플랫폼 연구실 학부연구생 2019.7 ~ 2020.12
 
 
